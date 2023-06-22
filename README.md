@@ -14,4 +14,4 @@ Overall, This project provides insights into economic downturns and a model to f
   * Predictions: Policymakers and investors should take action if the trained SVM model indicates a high likelihood of a recession.
 
 
-<img width="347" alt="image" src="https://github.com/yuvika0117/recession-prediction/assets/104730712/11f0ffb4-c083-4c30-a067-6cdee8b94811">
+                  <img width="347" alt="image" src="https://github.com/yuvika0117/recession-prediction/assets/104730712/11f0ffb4-c083-4c30-a067-6cdee8b94811">
