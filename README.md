@@ -1,8 +1,10 @@
+# Recession-Prediction
+
 This project examines the predictive power of variables such as GDP growth, unemployment rates, interest rates, and consumer spending in predicting recessions. Results suggest that certain variables, such as changes in GDP growth and rising unemployment rates, can serve as reliable indicators of an impending recession. Advanced forecasting methods can improve the accuracy of recession predictions. This study contributes to the growing body of literature on recession prediction and provides insights for policymakers and investors to mitigate the negative impacts of economic downturns.
 Overall, This project provides insights into economic downturns and a model to forecast their occurrence, providing policymakers, businesses, and investors with valuable insights.
 
 
-** Key Highlights: **
+  ## Key Highlights: 
   * Feature selection: Model features include relevant economic statistics.
   * Data processing: Cleaning and preparing data to be used in the model.
   * Train-test split: The train-test split method divides data into a training and testing set, which evaluates the model's effectiveness.
